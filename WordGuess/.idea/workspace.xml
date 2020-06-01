@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d06e123a-1e13-47f9-906b-6434340fc2f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bhmsYJEaFjUONNOlw8PpzFMmly" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lecture10/Lecture10" />
+  </component>
+  <component name="RunManager" selected="Python tests.Doctest expand_encoded_string">
+    <configuration name="Doctest expand_encoded_string" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encoded_string.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="expand_encoded_string" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest get_amount" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/credit_card_total.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="get_amount" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctest get_store_name" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Assignment5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/credit_card_total.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="get_store_name" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Doctest expand_encoded_string" />
+        <item itemvalue="Python tests.Doctest get_amount" />
+        <item itemvalue="Python tests.Doctest get_store_name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d06e123a-1e13-47f9-906b-6434340fc2f6" name="Default Changelist" comment="" />
+      <created>1589092906596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589092906596</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589531527972">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="383" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1589531527972" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590717867411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590717867411" />
+    <state width="1118" height="207" key="GridCell.Tab.0.bottom" timestamp="1589531633065">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1118" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1589531633065" />
+    <state width="1118" height="207" key="GridCell.Tab.0.center" timestamp="1589531633065">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1118" height="207" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1589531633065" />
+    <state width="1118" height="207" key="GridCell.Tab.0.left" timestamp="1589531633065">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1118" height="207" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1589531633065" />
+    <state width="1118" height="207" key="GridCell.Tab.0.right" timestamp="1589531633065">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1118" height="207" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1280.689@0.0.1920.1050" timestamp="1589531633065" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1590975077736">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1590601160052" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1590975077736" />
+  </component>
+</project>
